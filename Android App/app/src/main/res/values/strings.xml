@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginUI</string>
+    <string name="your_email">Your email</string>
+    <string name="your_name">Your name</string>
+    <string name="your_password">Your password</string>
+    <string name="log_in">Log in</string>
+    <string name="new_user">New user</string>
+    <string name="lorem">Loading the lastest version of log, please wait...</string>
+</resources>
